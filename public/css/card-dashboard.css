@@ -1,0 +1,53 @@
+.card_dashboard {
+    width: 300px;
+    height: 164px;
+    border-radius: 6px;
+    border: 1px solid #080a0c2d;
+}
+.card_dashboard-program {
+    background: linear-gradient(61.47deg, #5856d6 0%, #6f67db 100%);
+}
+.card_dashboard-kegiatan {
+    background: linear-gradient(61.47deg, #3399ff 0%, #2982cc 100%);
+}
+.card_dashboard-subkegiatan {
+    background: linear-gradient(61.47deg, #f9b115 0%, #f6960b 100%);
+}
+.total_data_text,
+.botton_option_dashboard {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600px;
+    color: #ffffff;
+}
+.text_title_section {
+    font-size: 16px;
+    line-height: 36px;
+    font-weight: 600px;
+    color: #ffffff;
+}
+.top_card_section {
+    justify-content: space-between;
+}
+.graph-illustration {
+    width: 100%;
+}
+.avatar_box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: space-between;
+    align-items: center;
+    padding: 1em;
+}
+.hello_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.fullName_dashboard {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--Neutral-Purple);
+}
