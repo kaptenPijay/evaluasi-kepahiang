@@ -64,4 +64,4 @@
 ## Catatan
 
 -   Pastikan Anda memiliki PHP, Composer, dan Laravel CLI yang terinstal di sistem Anda sebelum menjalankan langkah-langkah di atas.
--   Pastikan juga Anda memiliki database yang sudah terbuat dan konfigurasi yang sesuai di file `.env`.
+-   Pastikan juga Anda memiliki database yang sudah terbuat dan konfigurasi yang sesuai di fle `.env`.
