@@ -6,7 +6,7 @@
 
     - Clone project dari repository dengan menggunakan perintah berikut:
         ```bash
-        git clone https://github.com/PerdanaKarya/aplikasi-evaluasi-kinerja-kab-kepahiang.git
+        git clone https://github.com/kaptenPijay/aplikasi-evaluasi-kinerja-kab-kepahiang.git
         ```
 
 2. **Install Composer Dependencies**
