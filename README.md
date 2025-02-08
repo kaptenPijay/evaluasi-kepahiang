@@ -1,4 +1,4 @@
-# Aplikasi Evaluasi Kinerja Kabupaten Kepahiang
+# Aplikasi Evaluasi Kinerja Kabupaten Kepahiang Laravel 10
 
 ## Langkah-langkah Instalasi
 
